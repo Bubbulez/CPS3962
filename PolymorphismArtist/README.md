@@ -21,6 +21,6 @@ Relearning Java itself was also challenging. A significant portion of the semest
 Overall, this project took me some time to complete, largely because I spent time reviewing concepts, asking questions, and working through points of confusion. By the end of the assignment, the relationships between the classes and the purpose of polymorphism became much clearer. Completing this project helped rebuild my confidence in Java and reinforced the importance of understanding core object-oriented principles!
 
 
-Delali Doe
-Computer Science (Kean University)
-1/18/2026
+Delali Doe |
+Computer Science (Kean University) |
+Published: 1/18/2026
